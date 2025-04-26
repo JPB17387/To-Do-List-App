@@ -141,3 +141,68 @@ li{
     margin: 5px 0;
     border-radius: 5px;
 }
+
+li span{
+    flex: 1;
+    color: #9ed3d7;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.task-checkbox{
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    border: 2px solid #ef893b;
+    border-radius: 50px;
+    cursor: pointer;
+    position: relative;
+}
+
+.task-checkbox:checked{
+    background-color: #e5f413;
+    border-color: #e72c3c;
+}
+
+.task-checkbox:checked::after{
+    content: "✔";
+    color: #070e0f;
+    font-size: 14px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.delete-btn{
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    color: red;
+}
+
+.delete-btn:hover{
+    color: darkred;
+    background: none;
+}
+
+.edit-btn, .edit-btn:hover
+.save-btn, .save-btn:hover{
+    background: none;
+}
+
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
+
+.task-checkbox{
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#clear-all-btn:hover{
+    background: darkred;
+    
+}
