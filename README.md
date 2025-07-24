@@ -40,3 +40,29 @@ A simple and responsive To-Do List web app built with **HTML**, **CSS**, and **J
 1. Clone this repository:
    ```bash
    git clone https://github.com/JPB17387/To-Do-List-App.git
+
+2. Open the project folder:
+   ```bash
+   cd To-Do-List-app-2-ver
+
+3. Open the index.html in your browser:
+   ```bash
+   start index.html 
+   Or simply double click on index.html
+---
+
+## 🎯 Future Improvements
+
+- Add local storage to persist tasks
+- Add due dates and time-based reminders
+- Drag and drop reordering
+- Add filtering: All/ Active/ Completed
+
+## 📜License
+This project is open-source and free to use, feel free to contribute and make the project more functional.
+
+## Author 🙋‍♂️
+   **Jhon Paul Baonil**
+📧[Email](paulbaonil@gmail.com)
+#📱09859032274
+🔗[Facebook](https://www.facebook.com/jhonpaulbaonil.paul)
