@@ -29,10 +29,10 @@ A simple and responsive To-Do List web app built with **HTML**, **CSS**, and **J
 
 ## 📷 Screenshots Desktop View
 
-![screenshot - Desktop View]()
+![screenshot - Desktop View](screenshots/Desktop%20View.png)
 
-## 📷 Screenshots Mobile View
-![screenshot - Mobile View]()
+## 📷 Screenshots Ipad View
+![screenshot - Ipad View](screenshots/Ipad%20View.png)
 ---
 
 ## 📁 How to Run Locally
