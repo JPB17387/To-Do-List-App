@@ -45,11 +45,12 @@ A simple and responsive To-Do List web app built with **HTML**, **CSS**, and **J
    ```bash
    cd To-Do-List-app-2-ver
 
-3. Open the index.html in your browser:
+---
+
+## Open the index.html in your browser:
    ```bash
    start index.html 
    Or simply double click on index.html
----
 
 ## 🎯 Future Improvements
 
